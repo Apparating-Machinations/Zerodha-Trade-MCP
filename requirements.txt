@@ -1,0 +1,4 @@
+mcp
+kiteconnect
+python-dotenv
+pydantic
